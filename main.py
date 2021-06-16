@@ -1,8 +1,8 @@
 import sort
 from modul import *
 header_kelas.extend(["Quiz 1, Quiz 2, Quiz 3"])
-## no 7
-### Quiz 1
+
+
 for i in nilai_quiz1:
     i[0] = int(i[0])
     i[1] = float(i[1])
